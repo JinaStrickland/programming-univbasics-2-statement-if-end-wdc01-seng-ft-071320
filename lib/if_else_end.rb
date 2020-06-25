@@ -1,5 +1,5 @@
 # Write your solution here
-current_time = Time.now.to_i
+current_time = Time.now
 
 =begin
 current_time = Time.now.to_i
